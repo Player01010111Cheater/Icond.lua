@@ -44,7 +44,7 @@ return {
     ["lucide-angry"] = "rbxassetid://10709761629",
     ["lucide-annoyed"] = "rbxassetid://10709761722",
     ["lucide-aperture"] = "rbxassetid://10709761813",
-    ["lucide-apple"] = "rbxassetid://124262838143739",
+    ["lucide-apple"] = "rbxassetid://10734966248",
     ["lucide-archive"] = "rbxassetid://10709762233",
     ["lucide-archive-restore"] = "rbxassetid://10709762058",
     ["lucide-armchair"] = "rbxassetid://10709762327",
